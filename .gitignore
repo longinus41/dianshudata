@@ -32,3 +32,6 @@ logs/
 dist/
 build/
 out/
+
+# Data files
+*.json
